@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops and MERN 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on MERN for Freelencing 
-- 📫 How to reach me :- 8810440204 my Personal no. 
+- 📫 How to reach me :- https://www.linkedin.com/in/anurag-singh-b73190203/ 
 - ⚡ Fun fact: MERN is intresting and DevOps is life changing 
 
 <!---
